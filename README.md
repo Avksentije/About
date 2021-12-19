@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKlozevits
 - 👀 I’m interested in ... biophilie
-- 🌱 I’m currently learning ... processing/p5.js
+- 🌱 I’m currently learning ... python/processing/p5.js
 - 💞️ I’m looking to collaborate on ... nature-based imaginary
 - 📫 How to reach me ... @a.klozevits (IG), a.klozevits@gmail.com
 
