@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... arts, biophilie, urban farming, agriculture and biosystems.
 - 🌱 I’m currently learning ... python/processing/p5.js
 - 💞️ I’m looking to collaborate on ... nature-based imagery and data analytics.
-- 📫 How to reach me ... @a.vksentije (IG), a.klozevits@gmail.com) or tania.rcalzada@gmail
+- 📫 How to reach me ... for cultural projects: a.klozevits@gmail.com, or engineering: tania.rcalzada@gmail
 
 https://ello.co/avksentije
 
